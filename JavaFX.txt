@@ -1,0 +1,16 @@
+JavaFX Installation
+------------------------
+https://www.xanthium.in/simple-javafx-crash-course-for-embedded-engineers-makers-diy
+for compilation
+-------------------
+18)javac --module-path C:\openjfx-20\javafx-sdk-20.0.1\lib --add-modules javafx.controls,javafx.fxml canvas.java
+19) javac --module-path C:\openjfx-20\javafx-sdk-20.0.1\lib --add-modules javafx.controls,javafx.fxml JavafxCounter.java
+for Execution
+-----------------
+18) java --module-path C:\openjfx-20\javafx-sdk-20.0.1\lib --add-modules javafx.controls,javafx.fxml canvas
+
+19) java --module-path C:\openjfx-20\javafx-sdk-20.0.1\lib --add-modules javafx.controls,javafx.fxml JavafxCounter
+
+
+
+

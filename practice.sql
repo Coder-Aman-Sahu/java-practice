@@ -1,0 +1,1 @@
+Create table db(id number(5),name varchar(9),age number(2))
