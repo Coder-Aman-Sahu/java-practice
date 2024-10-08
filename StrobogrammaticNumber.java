@@ -2,9 +2,9 @@ import java.util.*;
 
 public class StrobogrammaticNumber{
 	public static void main(String[] args) {
-		// Scanner in= new Scanner(System.in);
-		// System.out.print("Enter number digit:");
-		// int n=in.nextInt();
+		Scanner in= new Scanner(System.in);
+		System.out.print("Enter number digit:");
+		int n=in.nextInt();
 		
 		 String st= "19061", t="";
 
@@ -33,3 +33,4 @@ public class StrobogrammaticNumber{
     		 System.out.print(t+" ");
 		}
 	}
+}
